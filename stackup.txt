@@ -1,0 +1,3 @@
+Hi my name is Sergio Esteban Boada.
+I'm new coding staff. I'm learning python, specially django framework and html an css.
+Lets learn a lot!!
